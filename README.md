@@ -15,7 +15,7 @@ Cyclistic has partnered with the city of New York to provide shared bikes. There
 Combined data from the tables received for this project into one reporting table which will be used to develop a dashboard. Used programs like BigQuery and Dataflow to move and analyze data with SQL.
 
 ## Tableau Dashboard
-- [Link to the Tableau Dashboard](https://public.tableau.com/app/profile/syed.taha.ahmed/vizzes)
+- [Link to the Tableau Dashboard](https://public.tableau.com/views/CyclisticProject_17130960119370/CyclisticExemplar?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### Summer Trends
 The first tab of the dashboard is a map of seasonal trends of bike trips in each of the New York boroughs. The largest map shows each of the boroughs. The table compares the number of trips and average trip duration for customers and subscribers in each neighborhood. Three smaller maps focus on July, August, and September: the three months with the highest bike traffic.
